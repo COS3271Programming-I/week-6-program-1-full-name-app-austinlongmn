@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/l2i_GTxK)
+# Week 6 Project 1: Full Name App
+
+## Source Code
+
+[`src/Main.java`](src/Main.java)
+
+## Sample Run
+
+![A sample run of the full name app](results/sample-run.png)
